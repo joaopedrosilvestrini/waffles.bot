@@ -1,0 +1,28 @@
+{
+  "name": "gugu.waffles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "mongoose": "^8.0.2",
+    "node-fetch": "^3.3.2",
+    "vulkava": "^1.6.2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "localCommandsCache": {},
+  "globalCommandsCache": {
+    "ping": "{\n  \"name\": \"ping\",\n  \"description\": \"[Information] Veja minha velocidade\",\n  \"options\": [],\n  \"onlyDevs\": false,\n  \"deferReply\": false,\n  \"emoji\": {}\n}",
+    "setup": "{\n  \"name\": \"setup\",\n  \"description\": \"[Config] Inicie a configuração de musica.\",\n  \"options\": [\n    {\n      \"type\": 1,\n      \"name\": \"setar\",\n      \"description\": \"[Config] Sete o canal\",\n      \"options\": []\n    }\n  ],\n  \"onlyDevs\": false,\n  \"deferReply\": false,\n  \"emoji\": {}\n}"
+  }
+}
